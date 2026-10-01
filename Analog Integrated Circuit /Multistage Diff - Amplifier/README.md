@@ -5,7 +5,7 @@ A two-stage OTA design meets the requirements.
 # Introduction
 An operational transconductance amplifier, or OTA, is an operational amplifier that has high gain, high input impedance, and high output impedance. OTA's output is a current source. A two-stage amplifier allows for higher gain without reducing the output swing. The first stage is a differential amplifier, and the second stage is typically configured as a simple common-source amplifier.
 The gain formula is: $A_{v} = A_{V1}A_{V2} = (-\frac{g_{m2}}{g_{o2}+g_{o4}})(-\frac{g_{m8}}{g_{o8}+g_{o7}})= \frac{g_{m2}g_{m8}}{(g_{o2}+g_{o4})(g_{o8}+g_{o7})} $
-The cutoff frequency is where the gain decreases by -3 dB from the DC gain. The dB gain formula is: $dB = 20 \.\log \. A_{v}$.
+The cutoff frequency is where the gain decreases by -3 dB from the DC gain. The dB gain formula is: $dB = 20 \logA_{v}$.
 # Design Considerations
 # Simulation Results \& Discussion
 # Conclusion
