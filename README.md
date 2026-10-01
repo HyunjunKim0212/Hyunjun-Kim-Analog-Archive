@@ -42,7 +42,7 @@ This course covers the fundamentals of semiconductor devices, electronic circuit
     *   Designed diode applications including rectifiers, clippers, clampers, and voltage regulation circuits.
 *   **Transistor Biasing & Small-Signal Modeling**
     *   Analyzed DC operating points (Q-points) and thermal stability for **BJT** and **MOSFET** configurations.
-    *   Developed small-signal hybrid-$ \pi $ and $T$-models to evaluate AC parameters such as voltage gain, input impedance, and output impedance.
+    *   Developed small-signal hybrid- $\pi$ and $T$-models to evaluate AC parameters such as voltage gain, input impedance, and output impedance.
 *   **Single-Stage Amplifier Configurations**
     *   Evaluated fundamental single-stage amplifier topologies (Common-Emitter/Source, Common-Base/Gate, Common-Collector/Drain).
     *   Studied frequency response concepts, high-frequency parasitics, and bandwidth limits of single-transistor stages.
