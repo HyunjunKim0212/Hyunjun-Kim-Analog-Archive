@@ -33,7 +33,7 @@ This course focuses on the analytical and electromagnetic foundations of distrib
 
 ---
 
-## Microelectronic Circuits Course
+## Electronic Circuits Course
 This course covers the fundamentals of semiconductor devices, electronic circuit analysis, and single-stage amplifier architectures. It emphasizes the DC biasing, AC small-signal modeling, and transient analysis of diodes, Bipolar Junction Transistors (BJTs), and Field-Effect Transistors (FETs).
 
 ### What I learned
